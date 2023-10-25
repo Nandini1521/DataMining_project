@@ -7,7 +7,7 @@ This code performs data preprocessing and classification using cross validation 
 
 ## Code Structure
 
-- `main` function: The main entry point for the code. Instrcuts the entire workflow, including data preprocessing, classifier selection, model evaluation, and generating the predictions.
+- `main` function: The main entry point for the code. Instructs the entire workflow, including data preprocessing, classifier selection, model evaluation, and generating the predictions.
 
 - `preprocess_data` function: Performs data preprocessing, including imputing missing values for numerical and categorical data and normalizing numerical features.
 
